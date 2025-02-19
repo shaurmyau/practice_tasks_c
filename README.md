@@ -1,3 +1,4 @@
+'''
 zahar@zahar-GL75-9SCK:~/sirius/git/C-practice/task1$ gcc -c file1.c file2.c main.c
 zahar@zahar-GL75-9SCK:~/sirius/git/C-practice/task1$ nm file1.o
 0000000000000000 D global_var
@@ -259,3 +260,4 @@ SYMBOL TABLE:
 
 
 zahar@zahar-GL75-9SCK:~/sirius/git/C-practice/task1$ gcc -static file1.c file2.c main.c
+'''
